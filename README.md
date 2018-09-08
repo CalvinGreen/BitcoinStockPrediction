@@ -13,7 +13,7 @@ frameworks needed: Keras, Tensorflow, Sklearn,NumPy,Pandas
 
 ## This is very suitable for an implentation for analysis given that the data expands over an extended period of time, it will be easy for the network to recognize patterns along different dates in the data and predict the stock prices over the next month or longer as long as the network is robust enough.
 
-Bitcoin train dates: 07/16/2010 - 07/31/2018
+Bitcoin train dates: 07/16/2010 - 08/8/2018
 
 Ethereum train dates: 08/06/2015 - 08/15/2018
 
