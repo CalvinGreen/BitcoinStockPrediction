@@ -9,9 +9,9 @@ frameworks needed: Keras, Tensorflow, Sklearn,NumPy,Pandas
 
 ## Predicting stock prices is a difficult proccess given that the "Browning Motion" states that predicting stock prices is practically impossible because future variations of stock prices are independent of the past. While that is true it is possible to capture upward and downward trends of the stock prices with the correctly tuned model that can generate accurate predictions on various high dimensional datasets. 
 
-## Given that the use of Recurrent Neural Network's can help perform a very complex optimization on time-series data for prediction(to a certain extent) for music generation as well as predicting future stock market prices. 
+##Recurrent Neural Network's can help perform a very complex optimization on time-series data for prediction(to a certain extent) for music generation as well as predicting future stock market prices. 
 
-## This is very suitable for an implentation for analysis given that the data expands over an extended period of time, it will be easy for the network to recognize patterns along different dates in the data and predict the stock prices over the next month or longer as long as the network is robust enough.
+## This is very suitable for an implentation for analysis given that the data expands over an extended period of time thus  it will be easy for the network to recognize patterns along different dates in the data and predict the stock prices over the next month or longer depending on how robust the network has been created.
 
 Bitcoin train dates: 07/16/2010 - 08/8/2018
 
