@@ -1,6 +1,9 @@
 # BitcoinStockPrediction
+
 Generate accurate predictions on the future price of bitcoin stocks
+
 python_ver_3.6
+
 frameworks needed: Keras, Tensorflow, Sklearn,NumPy,Pandas
 
 # A recurrent neural network (RNN) is similar to a feedfoward neural-net/MLP with the differences in the algorithm is that it has the capability of backpropagation, where connections are also pointing backwards sending the output back into itself. At each time-step(t) this recurrent neuron receives its input (x(t)) as well as output from previous time step (y(t)-1). When there is only one neuron the outputs are scalar when there are more than one input, outputs will be vectors.
